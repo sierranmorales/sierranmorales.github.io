@@ -9,10 +9,6 @@ labels:
   - Javascript
 ---
 
-<h1>
-	I am Being Pulled Towards the Dark Side (of Javascript Programming)
-</h1>
-
 <p>
 	My first introduction to programming was in my junior year of High School. Up until that point, I had no idea what I wanted to do with my life, but I was sure that I was definitely not going to college. That was until I took a Web Applications Development class where we learned the basics of HTML, CSS, and Javascript. At that point I fell in love. I knew that programming was going to be my path, and I still can’t see myself doing anything else. I guess you could say that the reason that I am here doing this is because of Javascript.<br><br>
 	That being said, I hated it. I hated web development. I thought it was boring and tedious. The class was too slow for me, and had a focus on Web Development as a whole, which meant a lot of HTML and CSS. This had stained my view of Javascript. When the course website for this class was first provided to us, I read that it was focused around Javascript and I felt dread and disappointment. I was still excited to be able to code something, but why did it have to be dreaded web development.<br><br>
