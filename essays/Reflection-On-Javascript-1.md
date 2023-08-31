@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "I am Being Swayed Towards the Dark Side"
+title: "I am Being Pulled Towards the Dark Side"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
 labels:
-  - Engineering
+  - Javascript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
