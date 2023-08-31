@@ -9,7 +9,9 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<h1>
+	I am Being Pulled Towards the Dark Side (of Javascript Programming)
+</h1>
 
 
 	My first introduction to programming was in my junior year of High School. Up until that point, I had no idea what I wanted to do with my life, but I was sure that I was definitely not going to college. That was until I took a Web Applications Development class where we learned the basics of HTML, CSS, and Javascript. At that point I fell in love. I knew that programming was going to be my path, and I still can’t see myself doing anything else. I guess you could say that the reason that I am here doing this is because of Javascript. 
