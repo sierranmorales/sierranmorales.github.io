@@ -6,11 +6,11 @@
     "email": "sierranm@hawaii.edu",
     "phone": "808-500-4552",
     "website": "https://sierranmorales.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2025.",
+    "location": { "address": "", "postalCode": "96712", "city": "Halewia", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "sierranmorales", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "sierranmorales", "url": "http://github.com/sierranmorales" },
+      { "network": "linkedin", "username": "sierramorales", "url": "www.linkedin.com/in/sierra-morales-1b74471b2" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "C", "C++", "Javascript", "HTML", "CSS", "SQL"]
+      "keywords": [ "Python", "Java", "C", "C++", "SQL", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -42,18 +42,42 @@
   ],
   "work": [
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "North Shore Shrimp Truck",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2022-03-07",
+      "endDate": "2023-01-27",
+      "summary": "Managed Register and Calculated and Distrubuted Tips",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communicate with customers and take orders",
+        "Fufil orders by making shave ice and other menue items"
+      ]
+    },
+    {
+      "company": "UH Manoa",
+      "position": "Student Researcher",
+      "startDate": "2022-10-07",
+      "endDate": "Present",
+      "summary": "Worked with mentor to complete astronomical research",
+      "highlights": [
+        "Process and compile training data to be used for the neural network",
+        "Create a neural network trained to identify Supernovae in images"
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
     {
       "organization": "",
       "website": "",
@@ -69,6 +93,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
     {
       "title": "First place",
       "date": "2015",
