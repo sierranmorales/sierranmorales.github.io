@@ -3,12 +3,11 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Find-Supernovae"
-date: 2015
+date: 2022-2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Neural Network
+  - Python
 summary: "The goal of this project is to create a convolutional neural network that is trained to anylize images from the Hubble Space Telescope and identify supernovae."
 ---
 
@@ -23,7 +22,6 @@ The goal of this project is to create a convolutional neural network that is tra
 
 In order to locate supernovae, we must compare multiple images of the same spot in space, taken at different times. We must align and subtract these images, using TweakReg and AstroDrizzle, in order to locate any differences in light, which may indicate a supernova. 
 
-The training data will consist of real aligned and drizzled images with false supernovae planted into them.
+The training data consists of real aligned and drizzled images with false supernovae planted into them.
 
-So far, this project is still in the phase of collecting and processing training data. 
 </p>
