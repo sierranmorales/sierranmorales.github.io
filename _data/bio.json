@@ -4,40 +4,37 @@
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "sierranm@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "phone": "808-500-4552",
+    "website": "https://sierranmorales.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2025.",
+    "location": { "address": "", "postalCode": "96712", "city": "Halewia", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "sierranmorales", "url": "http://github.com/sierranmorales" },
+      { "network": "linkedin", "username": "sierramorales", "url": "www.linkedin.com/in/sierra-morales-1b74471b2" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Cosmology" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Java", "C", "C++", "SQL", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "May 2020",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +42,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "North Shore Shrimp Truck",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-03-07",
+      "endDate": "2023-01-27",
+      "summary": "Managed Register and Calculated and Distrubuted Tips",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Communicate with customers and take orders",
+        "Fufil orders by making shave ice and other menue items"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa",
+      "position": "Student Researcher",
+      "startDate": "2022-10-07",
+      "endDate": "Present",
+      "summary": "Worked with mentor to complete astronomical research",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Process and compile training data to be used for the neural network",
+        "Create a neural network trained to identify Supernovae in images"
       ]
     }
   ],
