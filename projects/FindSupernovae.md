@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: ../img/FindSupernovae.png
 title: "Find Supernovae"
 date: 2022-2023
 published: true
@@ -12,9 +12,7 @@ summary: "The goal of this project is to create a convolutional neural network t
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/FindSupernovae.png" class="img-thumbnail" >
 </div>
 
 <p>
