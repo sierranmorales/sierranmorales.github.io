@@ -41,6 +41,17 @@
   ],
   "work": [
     {
+      "company": "UH Manoa",
+      "position": "Student Researcher",
+      "startDate": "2022-10-07",
+      "endDate": "Present",
+      "summary": "Worked with mentor to complete astronomical research",
+      "highlights": [
+        "Process and compile training data to be used for the neural network",
+        "Create a neural network trained to identify Supernovae in images"
+      ]
+    },
+    {
       "company": "North Shore Shrimp Truck",
       "position": "Sales Associate",
       "website": "",
@@ -50,17 +61,6 @@
       "highlights": [
         "Communicate with customers and take orders",
         "Fulfill orders by making shave ice and other menu items"
-      ]
-    },
-    {
-      "company": "UH Manoa",
-      "position": "Student Researcher",
-      "startDate": "2022-10-07",
-      "endDate": "Present",
-      "summary": "Worked with mentor to complete astronomical research",
-      "highlights": [
-        "Process and compile training data to be used for the neural network",
-        "Create a neural network trained to identify Supernovae in images"
       ]
     }
   ],
