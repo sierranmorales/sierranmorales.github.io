@@ -11,7 +11,7 @@ summary: "Rock paper scissors game vs computer written in C."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/rockpaperscissors/RockPaperScissors.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/RockPaperScissors.PNG" class="img-thumbnail" >
 </div>
 
 For this project I programmed a "Rock, Paper, Scissors" game to be played against the computer.
