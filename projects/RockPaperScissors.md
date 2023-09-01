@@ -12,8 +12,6 @@ summary: "Rock paper scissors game vs computer written in C."
 
 <div class="text-center p-4">
   <img width="200px" src="..\Users\sierr\Pictures\School\ICS 314\RockPaperScissors.PNG" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 For this project I programmed a "Rock, Paper, Scissors" game to be played against the computer.
@@ -32,4 +30,3 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
