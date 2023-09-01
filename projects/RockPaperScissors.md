@@ -1,9 +1,9 @@
-![RockPaperScissors](https://github.com/sierranmorales/sierranmorales.github.io/assets/143547246/9a280b47-3f7a-4130-9ec1-f0c630c70e69)---
+---
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
-date: 2015
+date: 2022
 published: true
 labels:
   - C
