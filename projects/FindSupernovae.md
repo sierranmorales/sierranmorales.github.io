@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/FindSupernovae.png
+image: ../img/findSupernovaeThumbnail.png
 title: "Find Supernovae"
 date: 2022-2023
 published: true
