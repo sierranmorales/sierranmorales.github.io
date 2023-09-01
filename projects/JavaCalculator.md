@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/javacalculator1.PNG
+image: ../img/calculatorThumbnail.png
 title: "Recursive Calculator With GUI"
 date: 2021
 published: true
