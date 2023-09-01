@@ -22,6 +22,8 @@ In order to locate supernovae, we must compare multiple images of the same spot 
 
 The training data consists of real aligned and drizzled images from the HST archive with false supernovae planted into them. Once trained, the neural network will be run over all images in the Hubble Space Telescope archive.<br>
 
-I have learned a lot over the course of this project, especially as it is my first project programmed in Python. I have done all of the programming for this project so far with the help of my mentor Dr. David Rubin.
+I have learned a lot over the course of this project, especially as it is my first project programmed in Python. I have done all of the programming for this project so far with the help of my mentor Dr. David Rubin.<br><br>
 
+Here is a link to the projdct Github:<br>
+https://github.com/sierranmorales/Finding-Supernovae
 </p>
