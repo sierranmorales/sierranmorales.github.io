@@ -18,15 +18,3 @@ For this project I programmed a "Rock, Paper, Scissors" game to be played agains
 
 This project was programmed in C using a SSH server and emacs as the text editor.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
