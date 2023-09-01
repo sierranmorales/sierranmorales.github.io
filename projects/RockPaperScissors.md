@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: ../img/RockPaperScissors.PNG
 title: "Micromouse"
 date: 2022
 published: true
