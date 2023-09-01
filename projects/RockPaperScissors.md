@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/RockPaperScissors.PNG
+image: ../img/rpsThumbnail.png
 title: "Rock Paper Scissors"
 date: 2022
 published: true
