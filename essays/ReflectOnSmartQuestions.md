@@ -18,12 +18,14 @@ labels:
 <h1>
 	Smart Question
 </h1>
-	An example of a smart question that was posted to Stack Overflow can be found [here](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it). The user got an error saying “Missing ‘use strict’ statement,” and after implementing the statement, was wondering what it meant. The user mentioned that they had done some searching on Google, but to no effect. The question is phrased intelligently and uses correct grammar and syntax. It also presents the different segments of the question in chronological order. Because of the “smart” phrasing of the question, there were many helpful replies with both  personal experiences as well as linked resources. This question was up-voted by 8422 people, indicating that the question “shows research effort [and] it is useful and clear.”
+	An example of a smart question that was posted to Stack Overflow can be found <a href="https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it" target="_top">here</a>. The user got an error saying “Missing ‘use strict’ statement,” and after implementing the statement, was wondering what it meant. The user mentioned that they had done some searching on Google, but to no effect. The question is phrased intelligently and uses correct grammar and syntax. It also presents the different segments of the question in chronological order. 
+<br><br>
+Because of the “smart” phrasing of the question, there were many helpful replies with both  personal experiences as well as linked resources. This question was up-voted by 8422 people, indicating that the question “shows research effort [and] it is useful and clear.”
 <br><br>	
 <h1>
 	Not as Smart Question
 </h1>
-An example of a "bad" question on Stack Overflow can be found [here](https://stackoverflow.com/questions/5271563/binary-search-homework).
+An example of a "bad" question on Stack Overflow can be found (https://stackoverflow.com/questions/5271563/binary-search-homework)" target="_top">here</a>.
 <br><br>
 The question starts with “It's late, I'm tired and forgot I had java homework,” which implies that the user did not put much effort or thought into finding the answer themselves beforehand. The user then goes on to list a homework problem and ask people to help them solve it.
 <br><br>
