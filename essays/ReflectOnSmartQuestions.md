@@ -25,13 +25,13 @@ labels:
 Because of the “smart” phrasing of the question, there were many helpful replies with both  personal experiences as well as linked resources. This question was up-voted by 8422 people, indicating that the question “shows research effort [and] it is useful and clear.”
 <br><br>	
 <h2>
-	Not as Smart Question
+	Not-So-Smart Question
 </h2>
 An example of a "bad" question on Stack Overflow can be found <a href="https://stackoverflow.com/questions/5271563/binary-search-homework" target="_top">here</a>.
 <br><br>
 The question starts with “It's late, I'm tired and forgot I had java homework,” which implies that the user did not put much effort or thought into finding the answer themselves beforehand. The user then goes on to list a homework problem and ask people to help them solve it.
 <br><br>
-	This is an example of a “bad question” because unlike the example above, it does not show any personal effort or thought. It is also not fully grammatically correct in its phrasing. The responses mimic the effort of the question with one person replying “What exactly is your question?,” and another saying “To me "I forgot I had homework" is just another way of saying "I put off doing my homework until the last minute". Neither get my sympathy vote.”
+	This is an example of a “bad question” because unlike the example above, it does not show any personal effort or thought. It is also not fully grammatically correct in its phrasing. The responses mimic the effort of the question with one person replying “What exactly is your question?,” and another saying “To me 'I forgot I had homework' is just another way of saying 'I put off doing my homework until the last minute'. Neither get my sympathy vote.”
 <br><br>
 <h2>
 	Conclusion
