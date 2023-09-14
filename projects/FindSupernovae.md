@@ -24,6 +24,6 @@ The training data consists of real aligned and drizzled images from the HST arch
 
 I have learned a lot over the course of this project, especially as it is my first project programmed in Python. I have done all of the programming for this project so far with the help of my mentor Dr. David Rubin.<br><br>
 
-Here is a link to the project Github:<br>
-https://github.com/sierranmorales/Finding-Supernovae
+<br>
+<a href="https://github.com/sierranmorales/Finding-Supernovae" target="_top">Here is a link to the project Github</a>
 </p>
