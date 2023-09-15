@@ -11,7 +11,7 @@ summary: "Rock paper scissors game vs computer written in C."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/RockPaperScissors.PNG" class="img-thumbnail" >
+  <img width="600px" src="../img/RockPaperScissors.PNG" class="img-thumbnail" >
 </div>
 
 For this project, I programmed a "Rock, Paper, Scissors" game to be played against the computer. The user inputs either "r" for rock, "p" for paper, "s" for scissors, or "q" to quit the game.  The user's choice is then immediately echoed back on the screen to confirm their selection. The user's textual inputs ("r," "p," "s," or "q") are internally converted to integer values for easier computation. Specifically, "r" is converted to 0, "p" to 1, and "s" to 2. These integer representations are crucial for the game logic. The computer's choice is generated using a random number generator that picks an integer between 0 and 2 inclusive. This randomness ensures that the game remains unpredictable and engaging. Both the player and the computer choices are then compared using a matrix and the game result is determined.<br>
