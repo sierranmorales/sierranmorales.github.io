@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "An Unexpected Journey"
+title: "To Infinity and Beyond!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-14
 published: true
