@@ -12,7 +12,7 @@ summary: "The goal of this project is to create a convolutional neural network t
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/FindSupernovae.png" class="img-thumbnail" >
+  <img width="600px" src="../img/FindSupernovae.png" class="img-thumbnail" >
 </div>
 
 <p>
