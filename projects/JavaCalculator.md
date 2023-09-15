@@ -17,8 +17,8 @@ summary: "Uses recursive methods to perform power, factorial, and summation calc
 
 This project is a calculator that performs power, factorial, and summation calculations using recursive methods. It also contains an interactive GUI. All of this is programmed in Java without the use of outside libraries or frameworks.<br>
 
-The GUI front page contains a prompt and 3 buttons, one "power," one "factorial," and one "summation."<br>
+Upon launching the application, the user is greeted with a well-organized front page featuring a prompt and three distinct buttons labeled "Power," "Factorial," and "Summation." These buttons serve as a navigational element to guide the user to the type of calculation they wish to perform.<br>
 
-The user selects one of the options and is then taken to a second page that contains fields to input numbers to be calculated, as well as a "submit" and an "exit" button.<br>
+Once the user selects a specific operation by clicking on one of the buttons, they are redirected to a second interface. This new page contains relevant fields where the user can input the numbers they wish to calculate. Additionally, there are two buttons at the bottom: a "Submit" button to initiate the calculation, and an "Exit" button to close the application or go back to the main menu.<br>
 
-This project was memorable to me because it was the first (and only) time that I have created a GUI using Java. It was also a good practice of recursion, as all of the calculations are performed recursively.
+This project was memorable to me because it was my first venture into creating a GUI using Java, which was both challenging and rewarding. This project was also a good practice of recursion, as all of the calculations are performed recursively.
