@@ -7,12 +7,13 @@ date: 2021
 published: true
 labels:
   - Java
+  - GUI
 summary: "Uses recursive methods to perform power, factorial, and summation calculations. Interacts with user using an interactive GUI"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/javacalculator1.PNG" class="img-thumbnail" >
-  <img width="200px" src="../img/javacalculator2.PNG" class="img-thumbnail" >
+  <img width="500px" src="../img/javacalculator1.PNG" class="img-thumbnail" >
+  <img width="500px" src="../img/javacalculator2.PNG" class="img-thumbnail" >
 </div>
 
 This project is a calculator that performs power, factorial, and summation calculations using recursive methods. It also contains an interactive GUI. All of this is programmed in Java without the use of outside libraries or frameworks.<br>
