@@ -13,7 +13,7 @@ labels:
 ---
 
 <p>
-	<img width="350px" src="../img/FindSupernovae.png" class="img-thumbnail" >
+	<img width="350px" src="../img/EsLint.jpeg" class="img-thumbnail" >
 <h2>
 	Not Just Pretty Code
 </h2>
