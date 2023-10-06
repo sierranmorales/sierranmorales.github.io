@@ -11,7 +11,7 @@ labels:
 ---
 
 <p>
-	<img width="900px" src="../img/IslandSnowPic.PNG" class="img-thumbnail" >
+	<img width="1100px" src="../img/IslandSnowPic.PNG" class="img-thumbnail" >
 <h2>UI Frameworks</h2><br>
   In the vast digital expanse, a visually compelling and user-friendly website stands as a beacon, often determining the success of a business or the popularity of an online platform. 
   While the artistry of web design has evolved tremendously over the years, the means to achieve these aesthetic and functional wonders have shifted as well. Enter User Interface (UI) Frameworks, 
