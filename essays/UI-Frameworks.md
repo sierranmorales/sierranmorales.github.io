@@ -11,15 +11,15 @@ labels:
 ---
 
 <p>
-	<img width="350px" src="../img/IsandSnowPic.PNG" class="img-thumbnail" >
+	<img width="350px" src="../img/IslandSnowPic.PNG" class="img-thumbnail" >
 <h2>UI Frameworks</h2><br>
   In the vast digital expanse, a visually compelling and user-friendly website stands as a beacon, often determining the success of a business or the popularity of an online platform. 
   While the artistry of web design has evolved tremendously over the years, the means to achieve these aesthetic and functional wonders have shifted as well. Enter User Interface (UI) Frameworks, 
-  the unsung heroes behind the scenes. Despite their seemingly daunting nature, these frameworks, like Bootstrap 5, offer manifold advantages. Let's delve into why one might want to choose a UI framework over raw HTML and CSS.
+  the unsung heroes behind the scenes. Despite their seemingly daunting nature, these frameworks, like Bootstrap 5, offer many advantages. Let's delve into why one might want to choose a UI framework over raw HTML and CSS.
 <br><br>
 
 <h2>2. Rapid Prototyping:</h2><br>
-  I believe that quick and easy prototyping is one of the biggest things that Bootstrap 5 would be useful for. In the world of tech, time is of the essence.
+  I believe that quick and easy prototyping is one of the biggest strengths of Bootstrap 5r. In the world of tech, time is of the essence.
   UI frameworks like Bootstrap 5 offer pre-designed components, enabling developers to quickly prototype and deploy applications. Imagine building a car from
   scratch versus assembling it with ready-made parts – the latter is undeniably faster and more efficient.
 <br><br>
