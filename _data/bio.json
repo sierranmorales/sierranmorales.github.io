@@ -64,6 +64,14 @@
       ]
     }
   ],
+
+  "awards": [
+    {
+      "name": "Undergraduate Research Opportunities Program",
+      "Description": "Recieved funding for independent student research project"
+      "date": "Fall 2023 semester"
+    }
+  ],
   
   "references": [
     {
