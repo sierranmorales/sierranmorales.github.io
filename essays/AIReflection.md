@@ -104,7 +104,7 @@ labels:
 		</p>
 	</li>
 	<li>
-		<h5>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</h5>
+		<h5>Quality Assurance</h5>
 		<p>
 		I have asked ChatGPT “What’s wrong with this code:...” as a debugging aid. I usually try to fix it on my own for a bit first, but it can be helpful in finding things that 
 		I may have missed. I have not used it to fix formatting errors or anything like that.
