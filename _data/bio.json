@@ -54,7 +54,6 @@
     {
       "company": "North Shore Shrimp Truck",
       "position": "Sales Associate",
-      "website": "",
       "startDate": "2022-03-07",
       "endDate": "2023-01-27",
       "summary": "Managed Register and Calculated and Distrubuted Tips",
@@ -66,10 +65,11 @@
   ],
   "awards": [
     {
-      "name": "Undergraduate Research Opportunities Program",
-      "Description": "Recieved funding for independent student research project",
-      "date": "Fall 2023 semester"
-    }
+      "title": "Undergraduate Research Opportunities Program Indepedent Project Funding",
+      "date": "Fall 2023 semester",
+      "awarder": "Undergraduate Research Opportunities Program",
+      "summary": "Recieved funding for independent student research project",
+    },
   ],
   "references": [
     {
