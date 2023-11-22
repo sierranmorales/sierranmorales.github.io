@@ -124,7 +124,7 @@ labels:
   AI has been extremely helpful in my learning experience and skill development. I find it to be a great resource to help explain intricate or specific concepts. I think as long as you don’t rely on AI, 
   but instead use it as a supplemental tool, it can be extremely beneficial. I think AI has enhanced my understanding of software engineering concepts in the sense that it has helped me to gain a deeper 
   understanding of certain concepts that I would have otherwise not known about. 
-  <br>
+  <br><br>
 
   I will say; I am extremely grateful that I went through elementary through high school and early college without access to AI resources like ChatGPT. I feel that since I was able to develop necessary skills like 
   writing and mathematics before being able to access AI, that I am able to better use it as an accessory to learning, rather than as a crutch.
@@ -133,7 +133,7 @@ labels:
 <h2>Practical Applications</h2><br>
   I have incorporated AI, mostly ChatGPT, into various aspects of my life outside of ICS 314. For example if I have a specific or contextual question and am unable to find an acceptable answer on the web, 
   I will ask ChatGPT.
-  <br>
+  <br><br>
 
   I also have used ChatGPT a lot to help me with my research project. I use it for help with debugging, as well as with learning how to properly apply certain concepts within astronomical data processing. 
   I would have a hard time and probably be much more reliant on my mentor without the help of ChatGPT.
@@ -143,7 +143,7 @@ labels:
   I have encountered many limitations of AI within this course, as well as in other areas. It can be extremely helpful in certain circumstances, but it is really better as a supplemental source of knowledge 
   rather than a baseline. It is really not THAT good (yet). I have caught it many times making small mistakes or errors, sometimes, not-so-small mistakes. Within the context of ICS 314, it is not that helpful 
   for most of the course, especially when you are dealing with programs that contain multiple files. 
-  <br>
+  <br><br>
 
   That being said, I do think that AI can be an extremely helpful tool in software engineering education, but I think it is important that the primary skills and knowledge are developed before
   AI is integrated as an accessory.
@@ -152,7 +152,7 @@ labels:
 <h2>Comparative Analysis</h2><br>
   I think ideally, AI-enhanced teaching methods should be just an upgrade on traditional teaching methods, keeping the same principals, but adding new resources. I think one important feature of AI-enhanced
   learning is that it allows for a more personalized experience that traditional methods often are unable to provide. 
-  <br>
+  <br><br>
 
   I do worry about engagement, knowledge retention, and practical skill development in the context of AI-enhanced learning. It is very easy to rely on AI, rather than learn from AI. I think if used mindfully, 
   AI can help improve all of the topics listed above, but it can also be a detriment if  it leads to overdependence and a decrease in critical thinking and problem-solving skills. The key is to balance 
@@ -172,11 +172,11 @@ labels:
   AI has significantly influenced my journey in software engineering education, offering both profound benefits, and notable challenges. Its role as a supplementary tool has enriched my understanding of complex concepts, 
   allowing me to explore areas of software engineering with a depth and clarity that might have otherwise been unattainable. The personalization and flexibility offered by AI, particularly ChatGPT, have 
   provided invaluable support in various applications, from research projects to everyday queries.
-  <br>
+  <br><br>
   
   The balance between leveraging AI as an educational tool and maintaining a strong foundation in traditional learning methodologies is crucial. AI has the potential to enhance engagement, knowledge retention,
   and skill development, but it also has the potential to be harmful. The risk of dependency and erosion of critical thinking skills is real and must be carefully managed.
-  <br>
+  <br><br>
   
   AI should serve as an ally in education, enhancing and complementing human capabilities, rather than becoming a substitute for the essential skills and critical thinking that form the bedrock 
   of software engineering knowledge.
