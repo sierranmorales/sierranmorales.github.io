@@ -13,9 +13,7 @@ labels:
 
 <p>
 	<img width="350px" src="../img/design-patterns.jpg" class="img-thumbnail" >
-<h1>
-	Blueprints of Code: Navigating Software Development using Design Patterns
-</h1>
+
   Design patterns in software engineering are like the blueprints in architecture, providing standardized solutions to common problems in software design. They are the frameworks 
   that programmers can use to tackle complex problems by applying proven strategies, much like how architects use blueprints to guide their building designs. There are many different design patterns. 
   Among these, the Observer, MVC (Model-View-Controller), and Singleton patterns are particularly noteworthy. Each pattern offers a unique approach to solving specific software design challenges, 
