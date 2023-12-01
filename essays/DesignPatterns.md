@@ -14,6 +14,7 @@ labels:
 <p>
 	<img width="350px" src="../img/design-patterns.jpg" class="img-thumbnail" >
 
+<br><br>
   Design patterns in software engineering are like the blueprints in architecture, providing standardized solutions to common problems in software design. They are the frameworks 
   that programmers can use to tackle complex problems by applying proven strategies, much like how architects use blueprints to guide their building designs. There are many different design patterns. 
   Among these, the Observer, MVC (Model-View-Controller), and Singleton patterns are particularly noteworthy. Each pattern offers a unique approach to solving specific software design challenges, 
@@ -26,7 +27,7 @@ labels:
 In the Observer pattern, think of the prompter in a theater. The prompter's role is to alert actors to their cues, much like how the Observer pattern works in software. 
 Each actor (or 'observer') is attentive to specific cues from the prompter (the 'subject'). When a cue is given, the actors react accordingly. In my coding, I've used this pattern for 
 event handling systems. Just like a prompter cues an actor, an event-handling system notifies various parts of the application when a particular event (like a user input) occurs. Another example of a
-similar pattern to the Observer pattern, is the Publish-Subscribe pattern, which I have used within the Meteor framework..
+similar pattern to the Observer pattern, is the Publish-Subscribe pattern, which I have used within the Meteor framework.
 <br><br>
 
 
@@ -42,7 +43,7 @@ have used this design pattern is within the Meteor framework. I have used a Mong
 	Singleton
 </h4>
 Finally, the Singleton pattern can be likened to the role of a theater manager. There's only one manager for the theater, overseeing critical operations. In software, the Singleton pattern ensures 
-that a class has only one instance and provides a global point of access to it. In my coding experience, I've used Singleton in the form of global “collections” in my Meteor applications. Only one instance 
+that a class has only one instance and provides a global point of access to it. In my coding experience, I've used Singleton in the form of global 'collections' in my Meteor applications. Only one instance 
 of this collection class is created and accessible to the rest of the application. 
 <br><br>
 
