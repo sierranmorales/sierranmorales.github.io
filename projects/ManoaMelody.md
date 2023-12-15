@@ -13,7 +13,7 @@ summary: "This project aimed to create a social network to connect UH student mu
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/manoa-melody.png" class="img-thumbnail" >
+  <img width="350px" src="../img/manoamelodylogo.png" class="img-thumbnail" >
 </div>
 
 <p>
