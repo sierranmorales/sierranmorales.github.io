@@ -4,7 +4,7 @@ type: essay
 title: "To Infinity and Beyond!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-14
-published: true
+published: false
 labels:
   - Software Engineering
 ---
