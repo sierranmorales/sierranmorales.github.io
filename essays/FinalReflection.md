@@ -12,7 +12,7 @@ labels:
 ---
 
 <p>
-	<img width="350px" src="../img/SoftwareEngineering.jpg" class="img-thumbnail" >
+	<img width="450px" src="../img/SoftwareEngineering.jpg" class="img-thumbnail" >
 
 <br><br>
  In the ever-evolving landscape of technology, software engineering stands as a multidisciplinary field that goes far beyond the creation of web applications. 
