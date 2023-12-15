@@ -19,14 +19,15 @@ labels:
 <br><br>
 
 <h2>Rapid Prototyping:</h2><br>
-  I believe that quick and easy prototyping is one of the biggest strengths of Bootstrap 5r. In the world of tech, time is of the essence.
-  UI frameworks like Bootstrap 5 offer pre-designed components, enabling developers to quickly prototype and deploy applications. Imagine building a car from
-  scratch versus assembling it with ready-made parts – the latter is undeniably faster and more efficient.
+  I believe that quick and easy prototyping is one of the biggest strengths of Bootstrap 5. In the world of tech, time is of the essence.
+  UI frameworks like Bootstrap 5 offer pre-designed components, enabling developers to quickly prototype and deploy applications. Imagine building
+  a car from scratch versus assembling it with ready-made parts. The latter is undeniably faster and more efficient.
 <br><br>
 
 <h2>Responsiveness:</h2><br>
-  With the proliferation of devices, from mobile phones to 4K monitors, ensuring that your website looks good everywhere is crucial. Bootstrap 5, for instance,
-  ensures that sites are naturally responsive. Crafting such flexibility from scratch with just HTML and CSS can be time-consuming and error-prone.
+  With the proliferation of devices, from mobile phones to 4K monitors, ensuring that your website looks good everywhere is crucial. 
+  Bootstrap 5, for instance, ensures that sites are naturally responsive. Crafting such flexibility from scratch with just 
+  HTML and CSS can be time-consuming and error-prone.
 <br><br>
 
 <h2>Personal Insights into Bootstrap 5:</h2><br>
