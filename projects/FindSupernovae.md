@@ -14,7 +14,7 @@ summary: "This project aimed to create a convolutional neural network that is tr
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/supernova1.png" class="img-thumbnail" >
+  <img width="650px" src="../img/supernova1.png" class="img-thumbnail" >
 </div>
 
 <p>
