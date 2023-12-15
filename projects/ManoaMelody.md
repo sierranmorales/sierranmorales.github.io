@@ -35,7 +35,7 @@ In order to access the main site, you must either create an account or sign in.
 
 <br><br>
 The main functionality of the website is the ability to create Events, and browse through other users' events and profiles. 
-<br>
+<br><br>
 <img width="550px" src="../img/events.png" class="img-thumbnail" >
 <img width="550px" src="../img/profiles.png" class="img-thumbnail" >
 <br><br>
@@ -44,7 +44,7 @@ feature for accounts with admin priveledges that grants the ability to delete ev
 
 <br><br>
 <h3>Contributions</h3>
-This application was created by Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido, and Sierra Morales
+This application was created by Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido, and Sierra Morales.
 
 <br><br>
 My primary contributions are the creation of the collection schemas, the creation of the "Profiles" 
