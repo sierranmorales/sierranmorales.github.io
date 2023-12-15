@@ -43,6 +43,7 @@ Each user is also able to view and edit their own profile as well as all events 
 feature for accounts with admin priveledges that grants the ability to delete events and profiles.
 
 <br><br>
+<h3>Contributions</h3>
 This application was created by Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido, and Sierra Morales
 
 <br><br>
