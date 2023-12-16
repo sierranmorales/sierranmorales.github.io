@@ -28,6 +28,9 @@ There are many ways for students to connect and start a friendship with others. 
 interests is one of them. This application will also cater to these students that want to 
 find friends of similar music tastes. Not only that, it can also help small artists be discovered and gain a platform.
 <br><br>
+<a href="https://manoa-melody.site/" target="_top">Here is a link to the Manoa Melody Website</a><br>
+<a href="https://manoa-melody.github.io/" target="_top">Here is a link to the Organization Github Page</a>
+<br><br>
 
 <h3>Functionality</h3>
 When you first open the website, you will be met with a home page that provides some information about Manoa Melody. 
