@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Rock Paper Scissors | Sierra Morales | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="../img/ProfessionalProfilePic.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sierra Morales | Professional Portfolio">
+    <meta property="og:url" content="https://sierranmorales.github.io/projects/RockPaperScissors.html">
+    <meta property="og:title" content="Rock Paper Scissors | Sierra Morales | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="../img/ProfessionalProfilePic.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Rock Paper Scissors | Sierra Morales | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sierra Morales</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Rock Paper Scissors</h1>
+ <div class="text-center p-4">
+  <img width="600px" src="../img/RockPaperScissors.PNG" class="img-thumbnail" />
+</div>
+
+<p>For this project, I programmed a “Rock, Paper, Scissors” game to be played against the computer. The user inputs either “r” for rock, “p” for paper, “s” for scissors, or “q” to quit the game.  The user’s choice is then immediately echoed back on the screen to confirm their selection. The user’s textual inputs (“r,” “p,” “s,” or “q”) are internally converted to integer values for easier computation. Specifically, “r” is converted to 0, “p” to 1, and “s” to 2. These integer representations are crucial for the game logic. The computer’s choice is generated using a random number generator that picks an integer between 0 and 2 inclusive. This randomness ensures that the game remains unpredictable and engaging. Both the player and the computer choices are then compared using a matrix and the game result is determined.<br /></p>
+
+<p>Result Matrix:<br />
+0, 2, 1<br />
+1, 0, 2<br />
+2, 1, 0<br /></p>
+
+<p>The rows represent the user’s choice, and the columns represent the computer’s choice. The matrix values indicate the winner (0 for a tie, 1 for the user win, and 2 for the computer win). This approach streamlines the decision-making process and makes the code more maintainable.
+<br /></p>
+
+<p>This project was programmed in C using a SSH server and emacs as the text editor. This was my first introduction to SSH and the linux command line, the knowledge of which have become invaluable assets, as I now frequently use command-line interfaces in my more advanced programming projects.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
