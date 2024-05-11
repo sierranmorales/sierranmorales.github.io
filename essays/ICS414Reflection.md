@@ -12,7 +12,7 @@ labels:
 ---
 
 <p>
-	<img width="450px" src="../img/SoftwareEngineering.jpg" class="img-thumbnail" >
+	<img width="450px" src="../img/Voluntree.jpg" class="img-thumbnail" >
 
 <br><br>
 
@@ -35,6 +35,8 @@ opportunities. Initially, organizing and synchronizing with a larger team proved
 skill sets and workstyles, requiring us to find effective ways to integrate our efforts. We used tools like GitHub for version control and to facilitate aspects of team coordination 
 such as issue and milestone tracking, and code review. Using these tools and processes was challenging at first, but they provided me with an expanded and valuable understanding of 
 how larger development teams manage their complexities. Through this course, I learned the importance of communication and the role of structured processes in a successful development team.
+
+<br><br>
 
 <h4>
 	Technical Skills
