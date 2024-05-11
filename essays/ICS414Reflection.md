@@ -12,7 +12,7 @@ labels:
 ---
 
 <p>
-	<img width="450px" src="../img/Voluntree.jpg" class="img-thumbnail" >
+	<img width="450px" src="../img/Voluntree.png" class="img-thumbnail" >
 
 <br><br>
 
