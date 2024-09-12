@@ -6,7 +6,7 @@ title: "Find Supernovae"
 date: 2022-2023
 published: true
 labels:
-  - Neural Network
+  - Convolutional Neural Network
   - Python
   - Hubble Space Telescope
   - Supernovae
