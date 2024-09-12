@@ -15,8 +15,8 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Software Engineering" },
-    { "name": "Music"}
+    { "name": "Computer Vision"},
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
