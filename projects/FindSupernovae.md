@@ -32,7 +32,7 @@ Finally, AstroDrizzle was run on all of the compatible images in order to create
 The core of the project involved developing a convolutional neural network. A pre-trained model was adapted for this purpose, with its top layer retrained on the project-specific dataset, comprising 70% training, 15% validation, and 15% testing categories. The model demonstrated a promising accuracy of approximately 93% in supernova detection.
 <br><br>
 
-I have learned a lot over the course of this project, especially as it is my first big project programmed in Python, as well as my first introduction to Artificial Intelligence. Not only have I learned the syntax and nuances of Python, but I have also gained invaluable insights into neural networks, data processing, and astronomical imaging. All programming and data analysis for this project have been done by me, under the expert guidance of my mentor, Dr. David Rubin<br><br>
+I learned a lot over the course of this project, especially as it is my first big project programmed in Python, as well as my first introduction to Deep Learning. Not only have I learned the syntax and nuances of Python, but I have also gained invaluable insights into convolutional neural networks, data processing, and astronomical imaging. All programming and data analysis for this project have been done by me, under the guidance of my mentor, Dr. David Rubin<br><br>
 
 <br>
 <a href="https://github.com/sierranmorales/Finding-Supernovae" target="_top">Here is a link to the project Github</a>
