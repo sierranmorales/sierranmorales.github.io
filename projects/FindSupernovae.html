@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Enhancing Supernova Detection Using Convolutional Neural Networks in Hubble Space Telescope Images | Sierra Morales | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="../img/ProfessionalProfilePic.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sierra Morales | Professional Portfolio">
+    <meta property="og:url" content="https://sierranmorales.github.io/projects/FindSupernovae.html">
+    <meta property="og:title" content="Enhancing Supernova Detection Using Convolutional Neural Networks in Hubble Space Telescope Images | Sierra Morales | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="../img/ProfessionalProfilePic.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Enhancing Supernova Detection Using Convolutional Neural Networks in Hubble Space Telescope Images | Sierra Morales | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sierra Morales</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Enhancing Supernova Detection Using Convolutional Neural Networks in Hubble Space Telescope Images</h1>
+ <div class="text-center p-4">
+  <img width="650px" src="../img/supernova1.png" class="img-thumbnail" />
+</div>
+
+<p>
+The goal of this project was to create a convolutional neural network that is trained to anylize images from the Hubble Space Telescope (HST) and identify supernovae. <br /><br />
+
+In order to locate supernovae, we must compare multiple images of the same spot in space, taken at different times. We must align and subtract these images, using TweakReg and AstroDrizzle, in order to locate any differences in light, which may indicate a supernova. In order to do this, I first downloaded a csv file containing data about all images from the HST archive that fit my search conditions. Then I wrote a script to compare each image's data with each other image's data in order to see if they were compatible (same filter, same area, different time). All compatible image pairs were written to a txt file called MatchLog.txt. Then I wrote another script to read through the MatchLog.txt and download all of the images. I then wrote two more scripts to compile a list of images that should be alligned and drizzled together. 
+<br /><br />
+
+Once this list was compiled, I created a duplicate of this dataset and inserted false supernovae into the duplicate data set, noting their positions and flux levels into a text file.
+<br /><br />
+
+Finally, AstroDrizzle was run on all of the compatible images in order to create subtracted images. This left me with 2 sets of subtracted images, a control set (the original data), and a supernova set (the data with implanted supernovae).
+<br /><br />
+
+The core of the project involved developing a convolutional neural network. A pre-trained model was adapted for this purpose, with its top layer retrained on the project-specific dataset, comprising 70% training, 15% validation, and 15% testing categories. The model demonstrated a promising accuracy of approximately 93% in supernova detection.
+<br /><br />
+
+I learned a lot over the course of this project, especially as it is my first big project programmed in Python, as well as my first introduction to Deep Learning. Not only have I learned the syntax and nuances of Python, but I have also gained invaluable insights into convolutional neural networks, data processing, and astronomical imaging. All programming and data analysis for this project have been done by me, under the guidance of my mentor, Dr. David Rubin<br /><br />
+
+<br />
+<a href="https://github.com/sierranmorales/Finding-Supernovae" target="_top">Here is a link to the project Github</a>
+</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
