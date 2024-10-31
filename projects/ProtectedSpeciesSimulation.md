@@ -20,8 +20,11 @@ summary: "This project aimed to simulate protected species in fishing environmen
 In this project, I developed a pipeline to generate synthetic training data for a Convolutional Neural Network (CNN) aimed at identifying 
 protected marine species in fishing videos. The process involves combining Blender animations with real-world footage using Python scripting 
 and computer vision techniques.
-
+<br>
+  
+Note: This project is currently in process.
 <br><br>
+  
 I completed this project in collaboration with 2 other people, and acted as the technical lead.
 <br><br>
 
