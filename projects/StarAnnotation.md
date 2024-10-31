@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/StarAnnotation.png
 title: "Deep Learning in Support of Space Domain Awareness"
-date: 06/2024 - 08/2024
+date: 2024
 published: true
 labels:
   - Convolutional Neural Network
