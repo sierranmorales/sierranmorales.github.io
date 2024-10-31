@@ -15,8 +15,9 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
+    { "name": "Deep Learning" },
     { "name": "Computer Vision"},
-    { "name": "Software Engineering" }
+    { "name": "Astronomy" }
   ],
   "skills": [
     {
