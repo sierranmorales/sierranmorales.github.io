@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/manoamelodylogo.png
 title: "Manoa Melody"
-date: 11/9/23 - 12/10/23
+date: 2023
 published: true
 labels:
   - Social Network
