@@ -15,7 +15,7 @@ summary: "This project aimed to create a convolutional neural network that is tr
 <div class="text-center p-4">
   <img width="650px" src="../img/ProtectedSpeciesSimulation1.png" class="img-thumbnail" >
 </div>
-
+<h3>Summary</h3>
 <p>
 In this project, I developed a pipeline to generate synthetic training data for a Convolutional Neural Network (CNN) aimed at identifying 
 protected marine species in fishing videos. The process involves combining Blender animations with real-world footage using Python scripting 
@@ -24,7 +24,8 @@ and computer vision techniques.
 <br><br>
 I completed this project in collaboration with 2 other people, and acted as the technical lead.
 <br><br>
-**My contributions include**
+
+<h3>My Contributions Include:</h3>
 
 - Frame Segmentation and Transparency: I created a Python script to automate the segmentation of each frame of a 3D Blender animation into individual still images with transparent backgrounds. 
 - Video Interpolation with OpenCV: Using the OpenCV library, I created a script that integrates these segmented frames into real-footage videos. The script accurately interpolates the species into each frame, accounting for factors like rotation, size, and positioning.
