@@ -42,7 +42,7 @@ Run models
 </ul>
 
 <br><br>
-The main functionality of the website is the ability to create Events, and browse through other users' events and profiles. 
+Here is the original model architecture of StarCSP and the proposed changes for StarCSPB and StarCSPC
 <br><br>
 <img width="550px" src="../img/starcspArchitecture.png" class="img-thumbnail" >
 <img width="550px" src="../img/starcspProposedChanges.jpg" class="img-thumbnail" >
@@ -51,7 +51,7 @@ The main functionality of the website is the ability to create Events, and brows
 
 <img width="550px" src="../img/starAnnotations.png" class="img-thumbnail" >
 <br>
-As you can see, StarCSPC performed much better than the original and StarCSPB, so all further evaluation is done using StarCSPC.
+As you can see, StarCSPC performed much better than the original and StarCSPB, so all further evaluation is done using StarCSPC. StarCSPC also kept the model size small, barely adding any neurons to the original in comparison to StarCSPB.
 <br><br>
 
 <h3>Part 2</h3>
@@ -74,6 +74,9 @@ Here are the resulting astrometric residuals.
 <br>
 <img width="550px" src="../img/wcsAccuracy.png" class="img-thumbnail" >
 <br>
+
+<h3>Final Touches</h3>
+Lastly, I decided to test different ResNet base models. I tested ResNet18, ResNet34, ResNet50 (the original), and ResNet101. I determined that ResNet18 performed well while maintaining a small size, so it was the best option for our applications. I also created a flexible StarCSP class which allowed the user to pass in their desired ResNet base model in the config as a parameter.
 
 <h3>Conclusion</h3>
 <ul>
