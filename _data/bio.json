@@ -3,10 +3,10 @@
     "name": "Sierra Morales",
     "label": "Student",
     "picture": "../img/ProfessionalProfilePic.png",
-    "email": "sierranm@hawaii.edu",
+    "email": "morales.n.sierra@gmail.com",
     "phone": "808-500-4552",
     "website": "https://sierranmorales.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2024. After I graduate I hope to work as a Software Developer.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2025.",
     "location": { "address": "", "postalCode": "96712", "city": "Halewia", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sierranmorales", "url": "http://github.com/sierranmorales" },
@@ -16,17 +16,17 @@
   "interests": [
     { "name": "Artificial Intelligence" },
     { "name": "Deep Learning" },
-    { "name": "Computer Vision"},
+    { "name": "Computer Vision" },
     { "name": "Astronomy" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "C", "C++", "SQL", "Javascript", "HTML", "CSS" ]
+      "keywords": [ "Python", "C", "C++", "C#", "Java", "SQL", "Javascript", "HTML", "CSS", "Bash" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity" ]
     }
   ],
   "education": [
@@ -35,9 +35,8 @@
       "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
       "startDate": "May 2020",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "May 2025",
+      "courses": [ "Algorithms", "Database Systems", "Operating Systems", "Software Engineering (1 & 2)", "AI Programming", "Linear Algebra and Differential Equations" ]
     }
   ],
   "work": [
@@ -45,11 +44,28 @@
       "company": "UH Manoa",
       "position": "Student Researcher",
       "startDate": "2022-10-07",
-      "endDate": "2023-12-10",
-      "summary": "Worked with mentor to complete astronomical research",
+      "endDate": "Present",
+      "summary": "Performed independent research in the fields of artificial intelligence and cosmology under mentor.",
       "highlights": [
-        "Process and compile training data to be used for the neural network",
-        "Create a neural network trained to identify Supernovae in images"
+        "Processed and analyzed astronomical image data using advanced methods like image alignment and subtraction.",
+        "Generated a simulated dataset by applying PSF interpolation to real Hubble Space Telescope images.",
+        "Created and trained a Convolutional Neural Network (CNN) to identify supernovae in Hubble Space Telescope images.",
+        "Adapted the iDrizzle subtraction technique for use with data from the upcoming Nancy Grace Roman Space Telescope.",
+        "Presented original research at a student research symposium, demonstrating the completion of a high-impact project.",
+      ]
+    },
+    {
+      "company": "Oddysey Systems",
+      "position": "Machine Learning Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Contributed to CNN used for star detection and annotation for object tracking and space domain awareness.",
+      "highlights": [
+        "Adjusted model architecture by adding more custom convolutional layers to the feature extracter of the base ResNet model, increasing WCS fit rate by 5% while maintaining compact model size.",
+        "Evaluated model performance by experimenting with varying numbers of ground truth star annotations.",
+        "Surpassed Air Force Space Command accuracy requirements for the Space Surveillance Network, achieving an error rate of less than 1 arcsecond (requirement: <3 arcseconds).",
+        "Developed a flexible class to allow different ResNet versions to be passed through configuration files.",
+        "Accelerated model analysis time by 10x through codebase optimizations."
       ]
     },
     {
@@ -57,10 +73,12 @@
       "position": "Sales Associate",
       "startDate": "2022-03-07",
       "endDate": "2023-01-27",
-      "summary": "Managed Register and Calculated and Distrubuted Tips",
+      "summary": "Effectively managed the cash register, accurately calculated and distributed tips, and ensured smooth daily operations through excellent customer service and efficient order fulfillment.",
       "highlights": [
-        "Communicate with customers and take orders",
-        "Fulfill orders by making shave ice and other menu items"
+        "Provided friendly and attentive customer service by taking and processing orders.",
+        "Prepared and served menu items.",
+        "Maintained a clean and organized work area to adhere to health and safety standards.",
+        "Handled transactions and balanced the register at the end of each shift."
       ]
     }
   ],
@@ -68,12 +86,17 @@
     {
       "title": "Undergraduate Research Opportunities Program Indepedent Project Funding",
       "date": "Fall 2023 semester",
-      "summary": "Recieved funding for independent student research project",
+      "summary": "Recieved funding for independent student research project.",
     },
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "David Rubin",
+      "contact": "drubin@hawaii.edu",
+      "name": "Zach Gazak",
+      "contact": "8084256018",
+      "name": "Justin Fletcher",
+      "contact": "availible upon request"
     }
   ]
 }
