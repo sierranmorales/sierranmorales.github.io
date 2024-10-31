@@ -24,8 +24,8 @@
       "keywords": [ "Python", "C", "C++", "C#", "Java", "SQL", "Javascript", "HTML", "CSS", "Bash" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity" ]
+      "name": "Frameworks/Tools",
+      "keywords": [ "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity" ]
     }
   ],
   "education": [
