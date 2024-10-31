@@ -20,9 +20,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Update RubyGems
-        run: |
-          gem update --system 3.3.22
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2'
+          bundler-cache: true
 
       - name: Install Bundler
         run: |
