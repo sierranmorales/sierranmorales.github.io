@@ -44,18 +44,47 @@ Run models
 <br><br>
 The main functionality of the website is the ability to create Events, and browse through other users' events and profiles. 
 <br><br>
-<img width="550px" src="../img/starcspArchitecture.jpg" class="img-thumbnail" >
+<img width="550px" src="../img/starcspArchitecture.png" class="img-thumbnail" >
 <img width="550px" src="../img/starcspProposedChanges.png" class="img-thumbnail" >
-<br><br>
-Each user is also able to view and edit their own profile as well as all events they created. There is also an admin 
-feature for accounts with admin priveledges that grants the ability to delete events and profiles.
 
-<br><br>
-<h3>Contributions</h3>
-This application was created by Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido, and Sierra Morales.
+<br>
 
+
+<img width="550px" src="../img/starAnnotations.png" class="img-thumbnail" >
+<br>
+As you can see, StarCSPC performed much better than the original and StarCSPB, so all further evaluation is done using StarCSPC.
 <br><br>
-My primary contributions are the creation of the collection schemas, the creation of the "Profiles" 
-page where you can browse through other users' profiles, some work on the "Events" page, where you can browse through all events, 
-and the creation of the admin page and admin delete feature. 
+
+<h3>Part 2</h3>
+<ul>
+  <li>
+    Adjust number of annotations and assess efficacy. 
+  </li>
+</ul>
+<br>
+
+Previous brief testing showed that more annotations is not always better. I trained the model using different number of annotations (1, 2, 5, 10, 20, 40, 80). Here are the resulting WCS fit rates by number of annotations:
+<br>
+
+<img width="550px" src="../img/wcsFit.png" class="img-thumbnail" >
+<br>
+Surprisingly, 1 annotation resulted in the best/highest WCS fit rate.
+<br><br>
+
+Here are the resulting astrometric residuals.
+<img width="550px" src="../img/wcsAccuracy.png" class="img-thumbnail" >
+
+<h3>Conclusion</h3>
+<ul>
+  <li>
+    Architecture changes lead to 5% increase in WCS fit rate
+  </li>
+  <li>
+    Improved model far exceeds Air Force Space Command requirements for sensors contributing to the Space Surveillance Network (SSN)
+  </li>
+  <li>
+    Decreased model analysis time by 10x (from 10 seconds per frame to 1)
+  </li>
+</ul>
+
 </p>
