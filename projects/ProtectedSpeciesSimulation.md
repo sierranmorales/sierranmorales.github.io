@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ProtectedSpeciesSimulation.png
+image: ../img/ProtectedSpeciesSimulation1.png
 title: "Synthetic Data Generation for Protected Species Detection"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ summary: "This project aimed to create a convolutional neural network that is tr
 ---
 
 <div class="text-center p-4">
-  <img width="650px" src="../img/ProtectedSpeciesSimulation1.png" class="img-thumbnail" >
+  <img width="650px" src="../img/ProtectedSpeciesSimulation.png" class="img-thumbnail" >
 </div>
 <h3>Summary</h3>
 <p>
