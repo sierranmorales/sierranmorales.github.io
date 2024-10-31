@@ -23,7 +23,7 @@ and computer vision techniques.
 
 <br><br>
 I completed this project in collaboration with 2 other people, and acted as the technical lead.
-<br><br>]
+<br><br>
 **My contributions include**
 
 - Frame Segmentation and Transparency: I created a Python script to automate the segmentation of each frame of a 3D Blender animation into individual still images with transparent backgrounds. 
