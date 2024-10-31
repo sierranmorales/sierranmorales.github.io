@@ -45,7 +45,7 @@ Run models
 The main functionality of the website is the ability to create Events, and browse through other users' events and profiles. 
 <br><br>
 <img width="550px" src="../img/starcspArchitecture.png" class="img-thumbnail" >
-<img width="550px" src="../img/starcspProposedChanges.png" class="img-thumbnail" >
+<img width="550px" src="../img/starcspProposedChanges.jpg" class="img-thumbnail" >
 
 <br>
 
@@ -73,6 +73,7 @@ Surprisingly, 1 annotation resulted in the best/highest WCS fit rate.
 
 Here are the resulting astrometric residuals.
 <img width="550px" src="../img/wcsAccuracy.png" class="img-thumbnail" >
+<br>
 
 <h3>Conclusion</h3>
 <ul>
