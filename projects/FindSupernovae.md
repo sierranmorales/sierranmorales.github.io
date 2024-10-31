@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../img/findSupernovaeThumbnail.png
-title: "Find Supernovae"
+title: "Enhancing Supernova Detection Using Convolutional Neural Networks in Hubble Space Telescope Images"
 date: 2022-2023
 published: true
 labels:
