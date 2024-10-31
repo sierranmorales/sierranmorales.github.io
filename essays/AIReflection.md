@@ -8,7 +8,6 @@ published: true
 labels:
   - Artificial Intelligence
   - ChatGPT
-  - Software Engineering
   - Education
 ---
 
@@ -17,7 +16,7 @@ labels:
 <h2>Introduction</h2><br>
   The role of Artificial Intelligence (AI) in education has been steadily growing in importance over the past few years, and it holds significant relevance to the field of Software Engineering. 
   AI has the potential to revolutionize the way we teach, learn, and practice software engineering, making it more effective, efficient, and adaptable to the evolving needs of the industry. 
-  <br>
+  <br><br>
 
   While not perfect, AI has become an exceedingly helpful learning tool for me. AI can be used for things like code generation, debugging, and my favorite, 
   personalized learning. I have gotten the most use out of ChatGPT, mostly using it to explain specific concepts in a way that I find easiest to understand. I have also used ChatGPT to help debug code I have written, both for my research, and elsewhere.
