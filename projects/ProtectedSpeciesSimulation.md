@@ -9,7 +9,7 @@ labels:
   - Data Augmentation
   - Synthetic Dataset Creation
   - OpenCV
-summary: "This project aimed to create a convolutional neural network that is trained to anylize images from the Hubble Space Telescope and identify supernovae."
+summary: "This project aimed to simulate protected species in fishing environments, generating realistic training data for a CNN to improve species identification accuracy."
 ---
 
 <div class="text-center p-4">
@@ -35,5 +35,5 @@ I completed this project in collaboration with 2 other people, and acted as the 
 
 <br><br>
 <br>
-<a href="https://github.com/sierranmorales/Finding-Supernovae" target="_top">Here is a link to the project Github</a>
+<a href="https://github.com/aidotfish/pixels" target="_top">Here is a link to the project Github</a>
 </p>
