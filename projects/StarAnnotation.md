@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/StarAnnotation.png
+image: ../img/starAnnotation.png
 title: "Deep Learning in Support of Space Domain Awareness"
 date: 2024
 published: true
@@ -46,7 +46,6 @@ The main functionality of the website is the ability to create Events, and brows
 <br><br>
 <img width="550px" src="../img/starcspArchitecture.png" class="img-thumbnail" >
 <img width="550px" src="../img/starcspProposedChanges.jpg" class="img-thumbnail" >
-
 <br>
 
 
@@ -72,6 +71,7 @@ Surprisingly, 1 annotation resulted in the best/highest WCS fit rate.
 <br><br>
 
 Here are the resulting astrometric residuals.
+<br>
 <img width="550px" src="../img/wcsAccuracy.png" class="img-thumbnail" >
 <br>
 
