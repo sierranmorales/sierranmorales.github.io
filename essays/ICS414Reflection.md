@@ -4,7 +4,7 @@ type: essay
 title: "From the Classroom to the Client: ICS 414"
 # All dates must be YYYY-MM-DD format!
 date: 2024-5-10
-published: true
+published: false
 labels:
   - Software Engineering
   - Web Development
