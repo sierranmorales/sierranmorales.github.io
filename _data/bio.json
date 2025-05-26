@@ -5,7 +5,7 @@
     "picture": "../img/ProfessionalProfilePic.png",
     "email": "morales.n.sierra@gmail.com",
     "website": "https://sierranmorales.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2025.",
+    "summary": "I have a B.S. in Computer Science from the University of Hawaii, and am studying for a M.S of Computer Science with a specialization in Machine Learning from the Georgia Institute of Technology.",
     "location": { "address": "", "postalCode": "96712", "city": "Halewia", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sierranmorales", "url": "http://github.com/sierranmorales" },
@@ -25,23 +25,31 @@
     },
     {
       "name": "Frameworks/Tools",
-      "keywords": [ "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity" ]
+      "keywords": [ "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity", "Figma" ]
     }
   ],
   "education": [
+    {
+      "institution": "Georgia Institute of Technology, Atlanta, GA",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "August 2025",
+      "endDate": "May 2027",
+      "courses": [ ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
       "startDate": "May 2020",
       "endDate": "May 2025",
-      "courses": [ "Algorithms", "Database Systems", "Operating Systems", "Software Engineering (1 & 2)", "AI Programming", "Linear Algebra and Differential Equations" ]
+      "courses": [ "Algorithms", "Database Systems", "Operating Systems", "Software Engineering (1 & 2)", "AI Programming", "Linear Algebra and Differential Equations", "Systems Programming" ]
     }
   ],
   "work": [
     {
       "company": "UH Manoa",
-      "position": "Student Researcher",
+      "position": "Research Assistant",
       "startDate": "2022-10-07",
       "endDate": "Present",
       "summary": "Performed independent research in the fields of artificial intelligence and cosmology under mentor.",
