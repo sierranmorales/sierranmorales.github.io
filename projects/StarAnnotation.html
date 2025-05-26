@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Deep Learning in Support of Space Domain Awareness | Sierra Morales | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="../img/ProfessionalProfilePic.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sierra Morales | Professional Portfolio">
+    <meta property="og:url" content="https://sierranmorales.github.io/projects/StarAnnotation.html">
+    <meta property="og:title" content="Deep Learning in Support of Space Domain Awareness | Sierra Morales | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="../img/ProfessionalProfilePic.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Deep Learning in Support of Space Domain Awareness | Sierra Morales | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Sierra Morales</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Deep Learning in Support of Space Domain Awareness</h1>
+ <p>
+
+<h3>Abstract</h3>
+Space domain awareness (SDA) is a term describing the study and monitoring of satellites and debris in Earth orbit.  Machine learning models are currently being used by Space Systems Command (SSC) for this purpose. This project aimed to improve current machine learning models used to track objects in space, as well as to optimize the current image processing pipeline. 
+
+A critical aspect of SDA is the detection of stars to locate objects in space. Accurately identifying the positions of stars is essential for determining the precise locations of objects in Earth orbit, which is important for avoiding collisions and detecting changes. Existing models struggle with learning the shape of star streaks, which are elongated representations of stars in sidereal tracking images. These streaks can vary in length and angle, making it challenging for current models to predict them with a high enough efficacy and efficiency. 
+
+In this project, the current star detection neural network was modified by appending convolutional layers to the feature extractor of the pretrained model, as well as to the end of the model, thus allowing the network more capacity to learn star streak angles and lengths. This project also aimed to reduce image processing time and increase performance by analyzing and determining the optimal number of star annotations, and by re-engineering sections of the codebase in a more efficient manner.  We demonstrated that these modifications drove improved model performance, increased annotation efficiency, and improved astrometric accuracy.
+<br /><br />
+
+<h3>Part 1</h3>
+<ul>
+  <li>
+    Make duplicate of original model (StarCSPB) and modify to append more convolutional layers to the feature extractor of the       base model (ResNet-50)</li>
+  <li>
+    Make second duplicate of original model (StarCSPC) and append more convolutional layers at the end of the base StarCSP model 
+  </li>
+  <li>
+    Run models
+  </li>
+  <li>
+    Make second duplicate of original model (StarCSPC) and append more convolutional layers at the end of the base StarCSP model 
+Run models
+  </li>
+  <li>
+    Train models on dataset and assess efficacy
+  </li>
+</ul>
+
+<br /><br />
+Here is the original model architecture of StarCSP and the proposed changes for StarCSPB and StarCSPC
+<br /><br />
+<img width="550px" src="../img/starcspArchitecture.png" class="img-thumbnail" />
+<img width="550px" src="../img/starcspProposedChanges.jpg" class="img-thumbnail" />
+<br />
+
+
+<img width="550px" src="../img/starAnnotations.png" class="img-thumbnail" />
+<br />
+As you can see, StarCSPC performed much better than the original and StarCSPB, so all further evaluation is done using StarCSPC. StarCSPC also kept the model size small, barely adding any neurons to the original in comparison to StarCSPB.
+<br /><br />
+
+<h3>Part 2</h3>
+<ul>
+  <li>
+    Adjust number of annotations and assess efficacy. 
+  </li>
+</ul>
+<br />
+
+Previous brief testing showed that more annotations is not always better. I trained the model using different number of annotations (1, 2, 5, 10, 20, 40, 80). Here are the resulting WCS fit rates by number of annotations:
+<br />
+
+<img width="550px" src="../img/wcsFit.png" class="img-thumbnail" />
+<br />
+Surprisingly, 1 annotation resulted in the best/highest WCS fit rate.
+<br /><br />
+
+Here are the resulting astrometric residuals.
+<br />
+<img width="550px" src="../img/wcsAccuracy.png" class="img-thumbnail" />
+<br />
+
+<h3>Final Touches</h3>
+Lastly, I decided to test different ResNet base models. I tested ResNet18, ResNet34, ResNet50 (the original), and ResNet101. I determined that ResNet18 performed well while maintaining a small size, so it was the best option for our applications. I also created a flexible StarCSP class which allowed the user to pass in their desired ResNet base model in the config as a parameter.
+
+<h3>Conclusion</h3>
+<ul>
+  <li>
+    Architecture changes lead to 5% increase in WCS fit rate
+  </li>
+  <li>
+    Improved model far exceeds Air Force Space Command requirements for sensors contributing to the Space Surveillance Network (SSN)
+  </li>
+  <li>
+    Decreased model analysis time by 10x (from 10 seconds per frame to 1)
+  </li>
+</ul>
+
+</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

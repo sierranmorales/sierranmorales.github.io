@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Sierra Morales",
+    "label": "Student",
+    "picture": "../img/ProfessionalProfilePic.png",
+    "email": "morales.n.sierra@gmail.com",
+    "website": "https://sierranmorales.github.io",
+    "summary": "I have a B.S. in Computer Science from the University of Hawaii, and am studying for a M.S of Computer Science with a specialization in Machine Learning from the Georgia Institute of Technology.",
+    "location": { "address": "", "postalCode": "96712", "city": "Halewia", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sierranmorales", "url": "http://github.com/sierranmorales" },
+      { "network": "linkedin", "username": "sierramorales", "url": "https://www.linkedin.com/in/sierra-morales-1b74471b2/" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Deep Learning" },
+    { "name": "Computer Vision" },
+    { "name": "Astronomy" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "C", "C++", "C#", "Java", "SQL", "Javascript", "HTML", "CSS", "Bash" ]
+    },
+    {
+      "name": "Frameworks/Tools",
+      "keywords": [ "Git", "Keras", "Tensorflow", "PyTorch", "MLflow", "Docker", "Unity", "Figma" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology, Atlanta, GA",
+      "area": "Computer Science (Expected May, 2027)",
+      "studyType": "M.S.",
+      "startDate": "August 2025",
+      "endDate": "May 2027",
+      "courses": [ ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "May 2020",
+      "endDate": "May 2025",
+      "courses": [ "Algorithms", "Database Systems", "Operating Systems", "Software Engineering (1 & 2)", "AI Programming", "Linear Algebra and Differential Equations", "Systems Programming" ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa",
+      "position": "Research Assistant",
+      "startDate": "2022-10-07",
+      "endDate": "Present",
+      "summary": "Performed independent research in the fields of artificial intelligence and cosmology under mentor.",
+      "highlights": [
+        "Processed and analyzed astronomical image data using advanced methods like image alignment and subtraction.",
+        "Generated a simulated dataset by applying PSF interpolation to real Hubble Space Telescope images.",
+        "Created and trained a Convolutional Neural Network (CNN) to identify supernovae in Hubble Space Telescope images.",
+        "Adapted the iDrizzle subtraction technique for use with data from the upcoming Nancy Grace Roman Space Telescope.",
+        "Presented original research at a student research symposium, demonstrating the completion of a high-impact project.",
+      ]
+    },
+    {
+      "company": "Odyssey Systems",
+      "position": "Machine Learning Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Contributed to CNN used for star detection and annotation for object tracking and space domain awareness.",
+      "highlights": [
+        "Adjusted model architecture by adding more custom convolutional layers to the feature extracter of the base ResNet model, increasing WCS fit rate by 5% while maintaining compact model size.",
+        "Evaluated model performance by experimenting with varying numbers of ground truth star annotations.",
+        "Surpassed Air Force Space Command accuracy requirements for the Space Surveillance Network, achieving an error rate of less than 1 arcsecond (requirement: <3 arcseconds).",
+        "Developed a flexible class to allow different ResNet versions to be passed through configuration files.",
+        "Accelerated model analysis time by 10x through codebase optimizations."
+      ]
+    },
+    {
+      "company": "North Shore Shrimp Truck",
+      "position": "Sales Associate",
+      "startDate": "2022-03-07",
+      "endDate": "2022-12-21",
+      "summary": "Effectively managed the cash register, accurately calculated and distributed tips, and ensured smooth daily operations through excellent customer service and efficient order fulfillment.",
+      "highlights": [
+        "Provided friendly and attentive customer service by taking and processing orders.",
+        "Prepared and served menu items.",
+        "Maintained a clean and organized work area to adhere to health and safety standards.",
+        "Handled transactions and balanced the register at the end of each shift."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Undergraduate Research Opportunities Program Indepedent Project Funding",
+      "date": "Fall 2023 semester",
+      "summary": "Recieved funding for independent student research project.",
+    },
+  ],
+  "references": [
+    {
+      "name": "Availible upon request.",
+    }
+  ]
+}
